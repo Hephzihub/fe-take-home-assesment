@@ -9,5 +9,17 @@ export default {
 
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
 
+  theme: {
+    extend: {
+      colors: {
+        primary: '#0F52FF',
+        secondary: '#5BD0F4'
+      },
+      fontFamily: {
+        sans: ['Figtree', 'inter', 'sans-serif']
+      }
+    }
+  },
+
   plugins: [animate, primeui],
 };

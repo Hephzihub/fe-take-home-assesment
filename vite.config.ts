@@ -14,6 +14,8 @@ export default defineConfig(({ mode }) => {
     define: {
       'process.env.NODE_ENV': JSON.stringify(mode)
     },
+    // Update the envPrefix to include APP_ since this was sample .env provided
+    envPrefix: ['APP_', 'VITE_'],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, 'src')

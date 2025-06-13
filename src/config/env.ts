@@ -5,4 +5,5 @@ const envSchema = z.object({
   MOCK_API: z.string().optional()
 });
 
-export const env = envSchema.parse(process.env);
+// export const env = envSchema.parse(process.env);
+export const env = envSchema.parse(import.meta.env);

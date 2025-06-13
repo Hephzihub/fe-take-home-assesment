@@ -1,0 +1,457 @@
+[
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.18,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T04:02:09.709+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.18,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T04:02:20.797+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.92,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T05:19:55.417+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.92,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T05:20:19.784+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.94,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T05:45:57.144+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.94,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T05:46:50.903+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.87,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T07:26:44.675+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.85,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T08:04:28.694+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.83,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T08:26:10.833+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.82,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T08:56:25.839+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.79,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T09:35:08.821+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.77,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T10:39:21.929+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.76,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T11:24:03.59+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.74,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T12:50:12.412+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.71,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T13:24:58.5+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.7,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T13:44:23.662+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.69,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T14:08:02.931+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.67,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-17T15:07:10.672+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.97,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T07:22:10.641+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.95,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T07:53:02.093+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.93,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T08:25:33.467+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.9,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T09:09:27.059+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.84,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T10:13:06.383+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.78,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T11:00:09.32+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.66,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T12:30:28.87+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.6,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T13:17:39.525+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.53,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T13:50:03.579+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.48,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T14:21:21.336+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.42,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T14:48:28.113+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.37,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T15:11:23.83+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.28,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T15:49:51.743+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.21,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T16:21:24.8+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.15,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-20T16:57:27.378+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.6,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T07:22:45.108+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.58,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T07:56:13.678+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.57,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T08:24:51.688+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.57,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T09:09:53.957+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.56,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T10:12:43.192+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.53,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T11:00:40.741+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.5,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T12:00:53.624+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T12:47:50.761+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T13:10:21.566+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T13:49:22.104+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T14:22:27.728+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T14:50:36.483+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.45,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T15:11:47.548+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.43,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T15:52:05.783+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.42,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T16:20:15.9+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.41,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-22T17:01:55.891+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.41,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T07:29:53.079+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.41,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T07:57:14.991+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.4,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T08:23:08.515+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.39,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T09:08:16.69+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.38,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T09:53:33.765+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.62,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T10:17:45.074+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.62,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T11:00:07.702+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.61,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T11:22:24.197+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.58,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T12:33:58.98+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.57,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T13:08:20.206+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.55,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T13:47:56.809+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.54,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T14:18:20.4+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.53,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T15:14:59.58+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.52,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T15:51:34.869+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.49,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T16:18:18.875+01:00"
+  },
+  {
+    "academyId": 30015,
+    "batteryLevel": 0.49,
+    "employeeId": "T1001399",
+    "serialNumber": "TT-C67ML-A-0001-02522",
+    "timestamp": "2019-05-23T17:01:47.641+01:00"
+  }
+]

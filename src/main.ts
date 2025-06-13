@@ -33,7 +33,10 @@ app.use(VueQueryPlugin, vueQueryPluginOptions);
 app.use(ElementPlus);
 app.use(PrimeVue, {
   theme: {
-    preset: Aura
+    preset: Aura,
+    options: {
+      darkModeSelector: false || 'none'
+    }
   }
 });
 app.mount('#app');
